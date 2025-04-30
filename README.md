@@ -2,14 +2,12 @@
 
 <h3 align="center">(Monolithic Version)</h3>
 
----
 
 ## Project Summary
 
 A standalone backend application developed using ***Spring Boot*** and ***PostgreSQL***. It exposes ***RESTful API*** for students to take quizzes on programming topics such as Java, Python, and related technical knowledge. Students receive a score upon submission. Admin users can manage the question bank, create quizzes, and review existing content.
 
 
----
 
 ## Features
 
@@ -19,7 +17,6 @@ A standalone backend application developed using ***Spring Boot*** and ***Postgr
 - Retrieve quiz questions
 - Submit answers and receive a score
 
----
 
 ## Architecture
 This project uses a monolithic Spring Boot architecture with a clear separation of concerns:
@@ -31,7 +28,6 @@ This project uses a monolithic Spring Boot architecture with a clear separation 
 
 A microservices version of this project is also available, where the Question and Quiz services are split into independent Spring Boot applications with their own APIs and databases: add github link here
 
----
 ## Endpoints Summary
 
 ###  Question Service
