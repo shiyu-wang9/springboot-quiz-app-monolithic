@@ -5,7 +5,7 @@
 
 ## Project Summary
 
-A standalone backend application developed using ***Spring Boot*** and ***PostgreSQL***. It exposes ***RESTful API*** for students to take quizzes on programming topics such as Java, Python, and related technical knowledge. Students receive a score upon submission. Admin users can manage the question bank, create quizzes, and review existing content.
+A standalone backend application developed using ***Spring Boot*** and ***PostgreSQL***. It exposes ***RESTful API*** for participants to take quizzes on programming topics such as Java, Python, and related technical knowledge. Participants receive a score upon submission. Admin users can manage the question bank, create quizzes, and review existing content.
 
 
 
